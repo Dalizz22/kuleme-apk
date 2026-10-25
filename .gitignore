@@ -1,0 +1,19 @@
+# 依赖与构建产物
+node_modules/
+dist/
+.npm-cache/
+.pnpm-store/
+
+# Android / Gradle 产物
+.gradle/
+android/.gradle/
+android/build/
+android/app/build/
+local.properties
+
+# 系统与本地文件
+.DS_Store
+*.log
+.idea/
+.vscode/
+*.swp
